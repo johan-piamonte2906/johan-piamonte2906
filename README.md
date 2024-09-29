@@ -43,7 +43,7 @@ Soy una persona que recientemente ha iniciado en la programación. Tengo un gran
 
 ----
 	
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=johan-piamonte2906"><img src="https://github-profile-trophy.vercel.app/?username=johan-piamonte2906&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=johan-piamonte2906"><img src="https://github-profile-trophy.vercel.app/?username=johan-piamonte2906&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="johan-piamonte2906" /></a> </p>
 
 	
 </details>
@@ -66,6 +66,6 @@ Soy una persona que recientemente ha iniciado en la programación. Tengo un gran
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?viewas=100000686899395&id=100006350283951" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "johanm2004@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:johanm2004@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 <a href = "https://wa.me/+573227238532" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="@unsimpledev"  /></a>
 </p>
