@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Johan Piamonte</h1>
-<h3 align="center">Soy una persona que recientemente ha iniciado en la programación. Tengo un gran interés en aprender más sobre este campo, ya que creo que es una herramienta muy poderosa que puede ser utilizada para resolver problemas y crear nuevas cosas. Soy una persona muy dedicada y aprendo rápidamente, por lo que estoy seguro de que podré tener éxito en esta área, Y actualmente Vivo en Bogotá, Colombia. </h3>
+<div aling="center">
+  <h1 align="center">Hi 👋, I'm Johan Piamonte</h1>
+</div>
+## Sobre mi
+<h3 align="center">
+Soy una persona que recientemente ha iniciado en la programación. Tengo un gran interés en aprender más sobre este campo, ya que creo que es una herramienta muy poderosa que puede ser utilizada para resolver problemas y crear nuevas cosas. Soy una persona muy dedicada y aprendo rápidamente, por lo que estoy seguro de que podré tener éxito en esta área, Y actualmente Vivo en Bogotá, Colombia. 
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johan-piamonte2906" alt="johan-piamonte2906" /></a> </p>
 
